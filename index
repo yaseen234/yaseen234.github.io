@@ -1,0 +1,48 @@
+
+
+ <!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/dreampulse/computer-modern-web-font/master/fonts.css">
+  <style>
+    body {
+      font-family: "Computer Modern Sans", sans-serif;
+    }
+  </style>
+    <meta charset="UTF 8">
+    <meta name="description" content="Knowledge is Power">
+    <title>Muhammed Yaseen</title>
+  </head>
+   <main>
+   <h1 style="text-align:center"> Muhammed Yaseen Nivas </h1>
+    <article>
+     <section>
+     
+  <article>
+   <section>
+    <h3>Resources<a href="resources.html">(Click here)</a></h3>
+    <br/>
+    
+    <h4>About</h4>
+     </section>
+     <p>Hey there! I'm a high school senior interested in olympiad biology (honorable mention: physics). My goal is to make a positive impact on others using the knowledge I've gained, so that basically means I like teaching science, especially 
+'tough topics' to others. I am a volunteer at <a href="https://www.everaise.org/" target="_blank"> Everaise Academy </a> and <a href="https://biologybowl.org/" target="_blank"> International Biology Bowl</a> I made this website because 1. Everyone has a website these days
+ 2. I used to maintain a <a href="https://coolmanboi.github.io/" target="_blank"> website </a> 2 years ago, then I completely forgot about it, then I got locked out of it. So here's to a new beginning I guess? </p>
+   <p>If you wish to collaborate with me, <a href="https://forms.gle/kddJSKwAQF2U3b8B8" target="_blank"> click here </a></p>
+
+     <br/>
+   <br/>
+   <!---
+   <form action="/forms.html">
+    <h4>Leave your comments below</h4>
+    <input type="text" id="sug" name="sugs">
+    <a href=forms.html>See all comments</a>
+    <script>
+    var value1="sugs"
+    var queryString= value1
+    window.location/href= "forms.html" + queryString
+   </script>
+   </main>
+  --->
+  </body>
+  </html>
